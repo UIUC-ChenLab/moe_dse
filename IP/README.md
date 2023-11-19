@@ -1,4 +1,4 @@
-The steps to generate IP candidates for DSE
+The steps to generate IP candidates and associated models for DSE
 
 cd script
 
